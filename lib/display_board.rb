@@ -3,7 +3,7 @@ def display_board
 puts "A tic Tac Toe Board"
 puts "   |    |  "
 puts "-----------"
-puts "    |     |    "
+puts "   |    |  "
 puts "-----------"
-puts "    |     |    "
+puts "   |    |  "
 end
